@@ -1,0 +1,10 @@
+/.env
+/.breakpoints
+/.gitattributes
+/.replit
+/.upm/store.json
+/poetry.lock
+/replit.nix
+/replit_zip_error_log.txt
+/.pythonlibs/bin/normalizer
+/.upm/store.json
