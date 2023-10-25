@@ -4,7 +4,7 @@
 
 ### Как установить
 
-Создайте файл .env и запишите туда переменные окружения(DB_HOST, DB_PORT,DB_NAME, DB_USER, DB_PASSWORD, SECRET_KEY, LANGUAGE_CODE, TIME_ZONE, DEBUG) и их значения.
+Создайте файл .env и запишите туда переменные окружения(DB_HOST, DB_PORT,DB_NAME, DB_USER, DB_PASSWORD, SECRET_KEY, LANGUAGE_CODE, TIME_ZONE, DEBUG, ALLOWED_HOSTS) и их значения.
 
 Например:
 
